@@ -8,7 +8,7 @@ layout: '../../layouts/BlogPostLayout.astro'
 ---
 
 <audio controls>
-       <source src="/amazing test.mp3" type="audio/mpeg">
+       <source src="/audio/amazing test.mp3" type="audio/mpeg">
   	Your browser does not support the audio element.
 </audio>
 
