@@ -1,11 +1,11 @@
 ---
-title: "How to compare dates in JavaScript"
-pubDate: "2020-01-28"
-slug: "how-to-compare-dates-in-javascript"
-description: "How to compare dates in JavaScript natively using the Date Object, without using any third-party libraries."
-hero: "/images/javascript-logo-banner.jpg"
-tags: ["javascript"]
-layout: "../../layouts/BlogPostLayout.astro"
+title: 'How to compare dates in JavaScript'
+pubDate: '2023-06-24'
+slug: 'how-to-compare-dates-in-javascript'
+description: 'How to compare dates in JavaScript natively using the Date Object, without using any third-party libraries.'
+hero: '/images/javascript-logo-banner.jpg'
+tags: ['javascript']
+layout: '../../layouts/BlogPostLayout.astro'
 ---
 
 Working with dates in JavaScript can be tricky to say the least. Recently I needed to compare two dates with one another to see which was greater than, less than, etc.
@@ -23,7 +23,7 @@ console.log(date);
 Then, compare this date with the current day:
 
 ```js
-const compareDate = new Date("01/28/2020");
+const compareDate = new Date('01/28/2020');
 const today = new Date();
 console.log(compareDate >= today);
 // false
@@ -32,10 +32,10 @@ console.log(compareDate >= today);
 The issue is that even though the dates are the same, the times are not.
 
 ```js
-const compareDate = new Date("01/28/2020");
+const compareDate = new Date('01/28/2020');
 const today = new Date();
-console.log("compareDate: ", compareDate);
-console.log("today: ", today);
+console.log('compareDate: ', compareDate);
+console.log('today: ', today);
 // compareDate:  Tue Jan 28 2020 00:00:00 GMT-0500 (Eastern Standard Time)
 // today:  Tue Jan 28 2020 21:33:27 GMT-0500 (Eastern Standard Time)
 ```
@@ -48,14 +48,14 @@ const todayWithoutTime = new Date(
   new Date().getMonth(),
   new Date().getDate()
 );
-console.log("todayWithoutTime: ", todayWithoutTime);
+console.log('todayWithoutTime: ', todayWithoutTime);
 // todayWithoutTime:  Tue Jan 28 2020 00:00:00 GMT-0500 (Eastern Standard Time)
 ```
 
 So let's try our comparison again.
 
 ```js
-const compareDate = new Date("01/28/2020");
+const compareDate = new Date('01/28/2020');
 const todayWithoutTime = new Date(
   new Date().getFullYear(),
   new Date().getMonth(),
