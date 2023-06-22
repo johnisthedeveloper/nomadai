@@ -1,7 +1,7 @@
 ---
 title: 'Introducing Astro: Ship Less JavaScript'
 description: "We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience."
-pubDate: '2023-06-29'
+pubDate: '2023-01-06'
 hero: '/images/introducing-astro.jpg'
 tags: ['astro']
 layout: '../../layouts/BlogPostLayout.astro'

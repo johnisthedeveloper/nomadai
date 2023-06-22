@@ -1,18 +1,24 @@
 ---
-date: 2023/06/22
+title: '134 - Astro'
+description: 'We are excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience.'
+pubDate: '2023-06-22'
+hero: '/images/123.jpg'
+tags: ['astro']
+layout: '../../layouts/BlogPostLayout.astro'
+---
+
+<img src="https://gw.alipayobjects.com/zos/k/sq/133.jpg" width="800" />
+
 title: '134 - Astro'
 description: "We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience."
 pubDate: '2023-06-20'
 hero: '/images/114.jpg'
 tags: ['astro']
----
-
-<img src="/assets/introducing-astro.jpg" width="800" class="rounded-3xl"/>
 
 <small>审美之间原来是很相通的，原本是任务的事情反而变得很好玩了。</small>
 
 <audio controls>
-       <source src="/audio/astroshipless2.mp3" type="audio/mpeg">
+       <source src="/audio/amazing test.mp3" type="audio/mpeg">
   	Your browser does not support the audio element.
 </audio>
 

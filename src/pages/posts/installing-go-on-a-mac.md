@@ -1,6 +1,6 @@
 ---
 title: 'Installing Go on a Mac'
-pubDate: '2023-06-29'
+pubDate: '2023-01-05'
 slug: 'go-basics-1-installing-go-on-a-mac'
 description: 'In this article, I am going to show you how to install & setup Go (Golang) on Mac and also setup/configure VS Code for writing Go (Golang) code.'
 hero: '/images/Golang-Basics.png'
