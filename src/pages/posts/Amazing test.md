@@ -7,10 +7,39 @@ tags: ['astro']
 layout: '../../layouts/BlogPostLayout.astro'
 ---
 
+<YouTube id="xtTy5nKay_Y" />
+
+<YouTube id="https://youtu.be/NkShQ1wwiCg" />
+
+<YouTube
+  id="xtTy5nKay_Y"
+  poster="https://images-assets.nasa.gov/image/0302063/0302063~orig.jpg"
+/>
+
+%[https://www.youtube.com/watch?v=0i5bioIYtYY]
+
+[https://www.youtube.com/watch?v=0i5bioIYtYY]
+
 <audio controls>
        <source src="/audio/amazing test.mp3" type="audio/mpeg">
   	Your browser does not support the audio element.
 </audio>
+
+<br />
+<br />
+<br />
+<video width="1280" height="720" controls>
+  <source src="/audio/test.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<br />
+<br />
+<br />
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=0i5bioIYtYY" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 <br />
 <br />
@@ -45,3 +74,31 @@ layout: '../../layouts/BlogPostLayout.astro'
 例如，当我使用这个提示时，我会得到超出我预期的优秀回答。你可以根据你的专业定制提示，并询问 ChatGPT 任何你想知道的事情。
 
 ChatGPT 真的就像我可以随时寻求指导和专业知识的专家顾问，成为了我日常生活中的一个宝贵工具。
+
+<video class="w-full h-auto max-w-full border border-gray-200 rounded-lg dark:border-gray-700" controls>
+  <source href="https://www.youtube.com/watch?v=N6Q66aTJeH4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+# 记录 3 年半环球旅居的最后一天，游牧夫妻回到中国
+
+中国年轻人的失业状况越来越严重。共产党的教育体系被认为是导致年轻成年人就业困难加剧的根本因素。因此，一些大学毕业生不得不从事快递员工作，而在中国出现了一种被称为“全职儿女”的新现象，即个人选择留在家中照顾他们的年迈父母以换取报酬。
+
+# 第 01 期 - 自救指南 | 宇宙时空故事
+
+[https://www.youtube.com/watch?v=Od-Uj5RSsuM](https://www.youtube.com/watch?v=Od-Uj5RSsuM)
+
+![Video preview](https://i.ytimg.com/vi/5s2IW1ImF-I/hqdefault.jpg)
+
+\- 城市 16 至 24 岁人口的失业率为 17.3％，几乎是 25 至 59 岁劳动者失业率的四倍。
+
+\- 共产党的教育体系被认为是导致年轻成年人就业困难加剧的根本因素。
+
+\- 最近的报告表明，由于订单过少，快递人员的工作岗位稀缺，工人过剩。
+
+[https://www.youtube.com/watch?v=0i5bioIYtYY](https://www.youtube.com/watch?v=0i5bioIYtYY)
+
+<video class="w-full h-auto max-w-full border border-gray-200 rounded-lg dark:border-gray-700" controls>
+  <source href="https://www.youtube.com/watch?v=N6Q66aTJeH4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
