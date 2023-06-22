@@ -26,12 +26,12 @@ const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valu
 <body class="bg-white  text-black font-body leading-normal personality-casual">
   <Nav />
 
-  <main class=" bg-white ">
+  <main class=" bg-white">
     <article class="max-w-6xl mx-auto px-3">
       {/*
       <HomeHeader title={title} description={description} />
        */}
-      <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-8" data-test="articles-section">
+      <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-1" data-test="articles-section">
         {sortedPosts.map(p => <div class="col-span-1">
           <Card post={p} />
         </div>)}
@@ -39,7 +39,7 @@ const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valu
     </article>
   </main>
 
-  <section class="flex space-x-8 justify-center text-xl pt-8 font-bold">
+  <section class="flex space-x-8 justify-center text-xl pt-1 font-bold">
     <a href="/posts" class="mr-8" data-test="see-all-link">
       See All<span class="squiggle">&rarr;</span>
     </a>

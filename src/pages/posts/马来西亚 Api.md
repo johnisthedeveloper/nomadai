@@ -8,9 +8,13 @@ layout: '../../layouts/BlogPostLayout.astro'
 ---
 
 <audio controls>
-       <source src="/audiotest.mp3" type="audio/mpeg">
+       <source src="/audio/audiotest.mp3" type="audio/mpeg">
   	Your browser does not support the audio element.
   </audio>
+
+<br />  
+<br />  
+<br />
 
 在这个 AI 时代，越来越多的工具将人工智能融入到其平台中，为我们提供了无限的可能性。让我们一起探索一些令人振奋的工具，它们可以帮助我们完成各种任务，从设计和内容创作到项目管理和数据分析。这些工具充满了 AI 的魔力，为我们节省了时间和精力，让我们可以专注于更重要的事情。
 
