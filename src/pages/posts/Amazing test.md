@@ -7,6 +7,33 @@ tags: ['astro']
 layout: '../../layouts/BlogPostLayout.astro'
 ---
 
+<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">小人物的十年撸毛史（下）2017-2023<br>原本计划这篇写一下撸毛赛道的竞争现状与趋势分析的，毕竟这个才是干货，经历只能当个爽文看看，因为上一篇反馈还不错，想了下还是决定把17-23年写完。<br><br>1/n<br>一、17-19 年少得志后的至暗时刻… <a href="https://t.co/Ce8Yl6u1kr">pic.twitter.com/Ce8Yl6u1kr</a></p>&mdash; 小人物 (@MetaHunter168) <a href="https://twitter.com/MetaHunter168/status/1671688313470861317?ref_src=twsrc%5Etfw">June 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe src="https://www.youtube.com/embed/0i5bioIYtYY" class="w-full aspect-w-16" style="height: 0; padding-bottom: 56.25%; overflow: hidden;" allowfullscreen></iframe>
+
+<br />
+<br />
+<br />
+
+<iframe src="https://www.youtube.com/embed/VIDEO_ID" class="w-full aspect-w-16 aspect-h-9" style="height: 0; padding-bottom: 56.25%; overflow: hidden;" allowfullscreen></iframe>
+
+<br />
+<br />
+<br />
+<iframe src="https://www.youtube.com/embed/0i5bioIYtYY?controls=1"" width="1280" height="720" allowfullscreen></iframe>
+<br />
+<br />
+<br />
+<iframe src="https://www.youtube.com/embed/0i5bioIYtYY?controls=1" allowfullscreen></iframe>
+<br />
+<br />
+<br />
+<YouTube videoId="0i5bioIYtYY" />
+
+<br />
+<br />
+<br />
+
 <YouTube id="xtTy5nKay_Y" />
 
 <YouTube id="https://youtu.be/NkShQ1wwiCg" />
@@ -20,10 +47,28 @@ layout: '../../layouts/BlogPostLayout.astro'
 
 [https://www.youtube.com/watch?v=0i5bioIYtYY]
 
+https://www.youtube.com/watch?v=0i5bioIYtYY
+
+[Watch the YouTube video](https://www.youtube.com/watch?v=0i5bioIYtYY)
+
+<video src="https://www.youtube.com/embed/0i5bioIYtYY"></video>
+
+<br />
+<br />
+<br />
+
+<video src="/audio/test.mp4" controls></video>
+
 <audio controls>
        <source src="/audio/amazing test.mp3" type="audio/mpeg">
   	Your browser does not support the audio element.
 </audio>
+
+<br />
+<br />
+<br />
+
+<audio src="/audio/amazing test.mp3"  controls></audio>
 
 <br />
 <br />
