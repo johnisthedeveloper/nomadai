@@ -5,11 +5,14 @@ import HomeHeader from '../components/HomeHeader.astro';
 import Card from '../components/Card.astro';
 import Footer from '../components/Footer/Footer.astro'
 
-import { Embed } from '@astrojs/embed';
+
+
 
 interface MarkdownFrontmatter {
   date: number;
+  pubDate: string; // Add the pubDate property of type string
 }
+
 
 const title = 'Nomad AI 智能游牧时代';
 const description = 'Nomad AI - Before die, do';
