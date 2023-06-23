@@ -4,11 +4,14 @@ import Nav from '../components/Nav.astro';
 import HomeHeader from '../components/HomeHeader.astro';
 import Footer from '../components/Footer/Footer.astro'
 import SearchInput from '../components/SearchInput.astro'
+import type { HTMLAttributes } from 'astro/types'
 
 let pageTitle = 'About';
 let pageDescription = 'This is about page';
 let seoTitle = 'Search | Creek';
 let seoDescription = '';
+
+const content = 'Nomad AI 智能游牧时代';
 ---
 
 <html lang="en">
@@ -19,7 +22,7 @@ let seoDescription = '';
   <body class="bg-white text-black font-body leading-normal personality-casual">
     <Nav />
     <main class="py-12 lg:py-20">
-      <article class="max-w-6xl mx-auto px-3" content>
+      <article class="max-w-6xl mx-auto px-3">
         <HomeHeader title={pageTitle} description={pageDescription} />
           <h1>
             This is the about page - Happy coding!
