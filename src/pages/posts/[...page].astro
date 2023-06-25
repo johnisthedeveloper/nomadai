@@ -26,6 +26,11 @@ let pageTitle = 'Articles';
 let pageDescription = `page ${page.currentPage} of all articles`;
 let seoTitle = 'Articles | Creek';
 let seoDescription = '';
+
+interface MarkdownFrontmatter {
+  date: number;
+  pubDate: string; // Add the pubDate property of type string
+}
 ---
 
 <html lang="en">
