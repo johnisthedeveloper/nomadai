@@ -13,14 +13,17 @@ layout: '../../layouts/BlogPostLayout.astro'
   </audio>
 
 <br />  
-<br />  
 <br />
 
-在这个 AI 时代，越来越多的工具将人工智能融入到其平台中，为我们提供了无限的可能性。让我们一起探索一些令人振奋的工具，它们可以帮助我们完成各种任务，从设计和内容创作到项目管理和数据分析。这些工具充满了 AI 的魔力，为我们节省了时间和精力，让我们可以专注于更重要的事情。
+# 2023 年 6 月 25 日
 
-1. Canva
+## 试验笔记
 
-以前，我用 Canva 完成了一系列的任务，如创建社交媒体帖子、发票、简历、网站、演示文稿、视频、徽标等等。然而，随着 AI 技术的出现，Canva 通过将几个 AI 功能集成到其平台上，取得了重大进步。
+1. Markdown Preview
+2. Markdown Preview Enhanced
+3. Canva
+
+Markdown is easy to learn.
 
 让我分享一些 Canva 提供的显著 AI 特性：
 
