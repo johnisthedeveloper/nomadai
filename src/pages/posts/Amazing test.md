@@ -20,7 +20,7 @@ layout: '../../layouts/BlogPostLayout.astro'
 <br />
 <br />
 <br />
-<iframe src="https://www.youtube.com/embed/0i5bioIYtYY?controls=1"" width="1280" height="720" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/0i5bioIYtYY?controls=1" width="1280" height="720" allowfullscreen></iframe>
 <br />
 <br />
 <br />
